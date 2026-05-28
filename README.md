@@ -2,7 +2,7 @@
 
 **
 
-** DEMO:-   react-landing-page-pi-six.vercel.app
+** DEMO:-   https://react-landing-ecommerce.vercel.app/
 
 # 🛎️🛎️ Good news! New & improved [V2](https://github.com/Anurag078/React-landing-page) is out  
 
